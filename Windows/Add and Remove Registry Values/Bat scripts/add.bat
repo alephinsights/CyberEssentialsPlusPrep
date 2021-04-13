@@ -1,1 +1,0 @@
-REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /f /v TEST /t REG_DWORD /d 0

@@ -1,1 +1,0 @@
-REG DELETE HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /f /v TEST
